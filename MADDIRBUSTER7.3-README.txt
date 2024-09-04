@@ -31,7 +31,7 @@ Usage:
    Users Can specify custom wordlitst path otherwise, a default wordlist is used.
    The script uses a default wordlist located at:
    wordlist="/home/****/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt"
-   You can change this path directly in the script to use a different wordlist.
+   You can change this path directly in the script to use a different wordlist otherwise, specify a custom wordlsit during session.
 
 5. Threads:
    The script will prompt you to enter the number of threads to use. More threads can speed up the scan but may consume more system resources.
