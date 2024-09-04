@@ -4,7 +4,7 @@
 echo "###########################################"
 echo "#                                         #"
 echo "#        MAD DIRECTORY BUSTER V7.3        #"
-echo "#        Creator: IK Ijomah               #"
+echo "#        Creator: IK-JR Ijomah            #"
 echo "#        CIRCA August 2024                #"
 echo "#                                         #"
 echo "###########################################"
