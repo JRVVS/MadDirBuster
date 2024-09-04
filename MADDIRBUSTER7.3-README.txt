@@ -1,5 +1,6 @@
 MAD DIRECTORY BUSTER with Gobuster
 Version 7.3
+Creator: IK IJOMAH
 ==================================
 
 Overview:
@@ -29,7 +30,7 @@ Usage:
 4. Wordlist Customization:
    Users Can specify custom wordlitst path otherwise, a default wordlist is used.
    The script uses a default wordlist located at:
-   wordlist="/home/sanlam/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt"
+   wordlist="/home/****/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt"
    You can change this path directly in the script to use a different wordlist.
 
 5. Threads:
