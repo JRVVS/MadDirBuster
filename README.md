@@ -1,6 +1,6 @@
 MAD DIRECTORY BUSTER with Gobuster
 Version 7.3
-Creator: JR IJOMAH
+Creator: IK IJOMAH
 ==================================
 
 Overview:
@@ -60,4 +60,4 @@ Notes:
 
 Author:
 -------
-- JR Ijomah: Created this script in 2024 to simplify the process of directory busting.
+- IK Ijomah: Created this script in 2024 to simplify the process of directory busting.
