@@ -10,7 +10,7 @@ echo "#                                         #"
 echo "###########################################"
 
 # Default wordlist path
-default_wordlist="/home/sanlam/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt"
+default_wordlist="/home/****/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt"
 
 # Check if gobuster is installed
 if ! command -v gobuster &> /dev/null; then
